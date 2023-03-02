@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aliaslahep
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning Btech IT
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
