@@ -141,7 +141,7 @@ Here are some of the technologies I work with:
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&locale=en&theme=radical&hide_border=true" alt="[your-github-username]'s GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliaslahep&show_icons=true&locale=en&theme=radical&hide_border=true" alt="aliaslahep's GitHub Stats" />
   <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[your-github-username]&layout=compact&locale=en&theme=radical&hide_border=true" alt="[your-github-username]'s Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliaslahep&layout=compact&locale=en&theme=radical&hide_border=true" alt="aliaslahep's Top Languages" />
 </p>
