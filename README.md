@@ -8,15 +8,14 @@ While my main focus is on backend development with Laravel, I am also proficient
 
 <br/>
 
-- 🔭 I’m currently working on **[Name of a Project You're Working On]**
-- 🌱 I’m currently learning **[A New Technology, e.g., Livewire or Inertia.js]**
+- 🔭 I’m currently working on **E Learn Application**
+- 🌱 I’m currently learning **React in Laravel [Inertia.js]**
 - 👯 I’m looking to collaborate on **open-source Laravel or PHP projects.**
-- 🤔 I’m looking for help with **[A specific problem or technology]**
+- 🤔 I’m looking for help with **Efficient Deployment of the project**
 - 💬 Ask me about **Laravel, PHP, or building RESTful APIs.**
 - 📫 How to reach me: **aliaslahep3@gmail.com**
-- 😄 Pronouns: **[He/Him, She/Her, etc.]**
-- ⚡ Fun fact: **[A fun fact about you!]**
-
+- 😄 Call me: **Ali**
+- 
 <br/>
 
 ## 🛠️ My Tech Stack
@@ -83,12 +82,6 @@ Here are some of the technologies I work with:
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       </a>
       <br>VS Code
@@ -131,7 +124,7 @@ Here are some of the technologies I work with:
 ## 📫 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/[your-linkedin-username]" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="[your-linkedin-username]" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/aslah-ali" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="[your-linkedin-username]" height="40" width="40" /></a>
 <a href="https://twitter.com/[your-twitter-username]" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="[your-twitter-username]" height="40" width="40" /></a>
 <a href="[your-portfolio-website-url]" target="blank"><img align="center" src="https://skillicons.dev/icons?i=web" alt="Portfolio" height="40" width="40" /></a>
 </p>
