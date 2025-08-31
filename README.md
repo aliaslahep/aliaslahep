@@ -112,9 +112,9 @@ Here are some of the technologies I work with:
     </td>
      <td align="center" width="96">
       <a href="#-my-tech-stack">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="AWS" />
       </a>
-      <br>AWS
+      <br>MongoDB
     </td>
   </tr>
 </table>
